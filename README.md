@@ -25,5 +25,7 @@ Following improvements, I can do but due to time constraint and I did this proje
 
 ## Screens: 
 
+![Webp net-resizeimage](https://user-images.githubusercontent.com/28667119/80930223-b5445380-8d77-11ea-9077-84406b099b48.png)     ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/28667119/80930234-c7be8d00-8d77-11ea-8674-0936b941e6d8.png)
 
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/28667119/80930264-12400980-8d78-11ea-9d36-f135908c50c0.png)
 
